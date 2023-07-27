@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Kayer
-- 👀 I’m interested in game development and the blockchain.
-- 🌱 I’m currently learning the worflow on the Solana blockchain on my own, while studying Computer Science in one of the top 100 university in the world.
-- 💞️ I’m looking to collaborate on public and private projects.
-- 📫 The best and easiest way to reach me is by emailing me at devkayer@gmail.com or by contacting me on discord Kayer#1249
+
